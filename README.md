@@ -1,5 +1,7 @@
 # Code-War
-以下是我在Code War做過的題目，上面附有以Python程式語言的解答。
+
+Here are the Python questions I have finished before. You can check my solutions above.
+
 1. Multiply
 2. Unique In Order
 3. Regex validate PIN code
